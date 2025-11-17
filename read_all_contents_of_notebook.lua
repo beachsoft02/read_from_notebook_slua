@@ -4,7 +4,7 @@
 -- Company: Beach Software
 -- License : MIT 
 -- Date : Nov 16, 2025
--- Notes: Please submit a pull request with corrections and improvements
+-- Notes: Please submit a pull request with corrections and improvements to https://github.com/beachsoft02/read_from_notebook_slua
 -- Current bugs in SLua: 1)Arguments to main function via coroutine.resume is ignored?
 --    2)To check  for "EOF" check for all spaces and control characters in returned value in dataserver
 
